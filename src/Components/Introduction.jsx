@@ -10,7 +10,7 @@ const Introduction = () => {
             ${showMore ? 'max-h-[1000px]' : 'max-h-[400px]'} overflow-hidden transition-all duration-500 ease-in-out`}>
             <h3 className="text-2xl font-semibold mb-4 text-zinc-50">Introduction</h3>
             <ul className="list-disc pl-5 text-zinc-50/80 leading-relaxed">
-                <li>I'm Vikram Gujar, a passionate full-stack Java developer.</li>
+                <li>I'm Swathi Vanka, a passionate full-stack Java developer.</li>
                 <li>Proficient in Java, C, C++, HTML, CSS, JavaScript, React, Node.js, and Express.js.</li>
                 {showMore && (
                     <>
